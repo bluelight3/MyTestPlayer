@@ -1,0 +1,2 @@
+# MyTestPlayer
+经过别人代码修改的一个基于QT和FFMPEG的音视频播放器
